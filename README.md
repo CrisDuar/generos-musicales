@@ -11,3 +11,12 @@ Los géneros musicales son categorías que agrupan obras musicales basadas en ca
 7. Reggae: Originario de Jamaica, se caracteriza por su ritmo relajado y letras de crítica social.
 
 Cada género refleja influencias culturales y sociales, y a menudo se mezclan, dando lugar a nuevos estilos y subgéneros.
+
+
+# Autores
+
++ José Alejandro Bohorquez Becerra
++ Christian Eduardo Duarte García
++ Eduard Alejandro Mojica Cruz
++ David Eduardo Florez Durán
++ Javier Alexander Salazar Florez
