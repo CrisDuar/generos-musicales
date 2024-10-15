@@ -5,6 +5,6 @@ Este genero ha evolucionado a la par de la cultura, incluyendo dentro de si gene
 ### Instrumentos
 Los instrumentos que componen la mayoría de canciones de este genero son aquellos que podemos enc0ontrar en otros generos similares como el rock, estos siendo la guitarra, bajo y batería y piano con inclusiones provenientes del jazz y soul como el saxofón.
 ### Artistas destacados
-Michael Jackson 
-Earth, Wind & Fire
-Sade
+-Michael Jackson 
+-Earth, Wind & Fire
+-Sade
